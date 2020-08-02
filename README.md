@@ -2,23 +2,29 @@
 
 Expense tracker is a desktop application that helps to manage daily expenses. The expenses are stored into a database and analysis is done which can be seen through Pie chart and Bar graphs. It is an overall powerful personal finance tool that helps to improve productivity, saves time and money.
 
-There are two types of themes.
-Dark
-![Example:](/screenshots/main.png)
-Light
-![Example:](/screenshots/Main Gui Light.png)
+#### There are two types of themes.  
+###### Dark  
+![Example:](https://github.com/Bhavitg/Expense-Tracker/blob/master/Screenshots/main.PNG)
 
-Add Expenses
-![Example:](/screenshots/Add expenses.png)
 
-Analysis Option
-![Example:](/screenshots/Graph.png)
+###### Light  
+![Example1:](https://github.com/Bhavitg/Expense-Tracker/blob/master/Screenshots/Main%20Gui%20Light.PNG)
 
-Pie Chart
-![Example:](/screenshots/Pie Chart.png)
 
-Settings
-![Example:](/screenshots/Settings.png)
+###### Add Expenses  
+![Example2:](https://github.com/Bhavitg/Expense-Tracker/blob/master/Screenshots/Add%20Expense.PNG)
+
+
+###### Analysis Option  
+![Example3:](https://github.com/Bhavitg/Expense-Tracker/blob/master/Screenshots/Analysis.PNG)
+
+
+###### Pie Chart  
+![Example4:](https://github.com/Bhavitg/Expense-Tracker/blob/master/Screenshots/Pie%20Chart.PNG)
+
+
+###### Settings  
+![Example5:](https://github.com/Bhavitg/Expense-Tracker/blob/master/Screenshots/Settings.PNG)
 
 
 
